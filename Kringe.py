@@ -1,5 +1,8 @@
 #Определение того, что можно подставить, в случае ошибки, по позиции и частям последовательностей
 
+
+#asofiuadcouehvc
+
 def Answer(part_OfLine, part_OfSequance, position):
 
   Phrase = "at position " + str(position + 1) + ": expected "
