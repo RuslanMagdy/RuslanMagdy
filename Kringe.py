@@ -3,10 +3,13 @@
 
 #kdsjnsorvnpwsriovnwpqevibpwev
 
-#1000139139e32e
-
 
 #lszfijvnpsbinvwv
+
+
+#ujbaoivbnapevb
+
+#aoaubpirbvspoirbvosrivdpaievn
 
 
 #asofiuadcouehvc
@@ -81,4 +84,3 @@ line = input()
 
 print(Great_checker(line))
 
-  
