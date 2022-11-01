@@ -1,4 +1,10 @@
-#Определение того, что можно подставитm
+#Определение того, что можно подставитmasfaenoifvnsaoerfvineofp
+
+
+#kdsjnsorvnpwsriovnwpqevibpwev
+
+
+#lszfijvnpsbinvwv
 
 def Answer(part_OfLine, part_OfSequance, position):
 
